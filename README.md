@@ -1,6 +1,6 @@
-# secfox-frontend
+# A vue template
 
-> secfox front-end 
+use vue-router  vuex  iView vue-i18n
 
 ## Build Setup
 
